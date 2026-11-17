@@ -1,16 +1,12 @@
-## Hi there 👋
+ **Meus Objetivos**
+- Conquistar minha primeira oportunidade como desenvolvedor(a) [Front-end / Back-end / Full Stack].
+- Construir um portfólio sólido com aplicações reais e bem documentadas.
+- Contribuir para projetos Open Source.
 
-<!--
-**luizeduardoo01/luizeduardoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Área de Interesse**
+- Desenvolvimento Web e Mobile
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tecnologias que desejo aprender**
+- JavaScript
+- GitHub
+  
